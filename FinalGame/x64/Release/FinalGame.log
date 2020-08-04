@@ -1,0 +1,32 @@
+﻿  AnimatedSprite.cpp
+AnimatedSprite.cpp(20): warning C4018: '>': signed/unsigned mismatch
+  Animation.cpp
+  AudioManager.cpp
+  Background.cpp
+  Button.cpp
+  ControlScreen.cpp
+  Cursor.cpp
+Cursor.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+  Game.cpp
+  Health.cpp
+  Input.cpp
+  Main.cpp
+Main.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Main.cpp(37): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Menu.cpp
+  MusicObject.cpp
+  PauseScreen.cpp
+  Player.cpp
+  Rain.cpp
+  RainManager.cpp
+RainManager.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+RainManager.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+RainManager.cpp(43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Sound.cpp
+  Sprite.cpp
+  Compiling...
+  Vector.cpp
+Vector.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Vector.cpp(20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'

@@ -1,0 +1,46 @@
+﻿  AnimatedSprite.cpp
+AnimatedSprite.cpp(20): warning C4018: '>': signed/unsigned mismatch
+  Animation.cpp
+  AudioManager.cpp
+AudioManager.cpp(27): warning C4018: '<': signed/unsigned mismatch
+AudioManager.cpp(40): warning C4018: '<': signed/unsigned mismatch
+AudioManager.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  Background.cpp
+  Button.cpp
+  ControlScreen.cpp
+  Cursor.cpp
+Cursor.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+  Game.cpp
+  Health.cpp
+  Input.cpp
+  Main.cpp
+Main.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Main.cpp(37): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Menu.cpp
+  MusicObject.cpp
+  PauseScreen.cpp
+  Player.cpp
+  Rain.cpp
+  RainManager.cpp
+RainManager.cpp(21): warning C4018: '<': signed/unsigned mismatch
+RainManager.cpp(35): warning C4018: '<': signed/unsigned mismatch
+RainManager.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+RainManager.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+RainManager.cpp(43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+RainManager.cpp(53): warning C4018: '<': signed/unsigned mismatch
+RainManager.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  Sound.cpp
+  Sprite.cpp
+  Compiling...
+  Vector.cpp
+Vector.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Vector.cpp(20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+     Creating library G:\Uni\Games Programming\Assessment\source\Release\FinalGame.lib and object G:\Uni\Games Programming\Assessment\source\Release\FinalGame.exp
+  Generating code
+  477 of 488 functions (97.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FinalGame.vcxproj -> G:\Uni\Games Programming\Assessment\source\Release\FinalGame.exe
+  FinalGame.vcxproj -> G:\Uni\Games Programming\Assessment\source\Release\FinalGame.pdb (Full PDB)
